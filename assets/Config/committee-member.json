@@ -1,0 +1,37 @@
+{
+"members": 
+    [
+        {
+        "designation":"President",
+        "name": "Prasenjit Mazumder",
+        "email" : "m.senjit@gmail.com",
+        "sex": "male",
+        "phone": "+61468400123",
+        "picture":"president.jpg"
+        },
+        {
+        "designation":"Secretary",
+        "name": "Sanchari Bhaumik",
+        "email" : "sanbi.1508@gmail.com",
+        "sex": "female",
+        "phone": "+61468512123",
+        "picture":"secretary.jpg"
+        },
+        {
+        "designation":"Treasurer",
+        "name": "Arpan Bose",
+        "email" : "arpan.bose@gmail.com",
+        "sex": "male",
+        "phone": "+61512400123",
+        "picture":"treasurer.jpg"
+        },
+        {
+        "designation":"Vice President",
+        "name": "Pritam Paul",
+        "email" : "pritam.paul@gmail.com",
+        "sex": "male",
+        "phone": "+61652400123",
+        "picture":"vice_president.jpg"
+        }
+    ]
+}
