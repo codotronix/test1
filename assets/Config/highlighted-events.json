@@ -1,32 +1,33 @@
 {
     "hEvents": [
         {
-            "name": "Event 1",
-            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed et dolore magna aliqua",
-            "place": "Sam's garden",
-            "date": "22-08-2019",
-            "time": "5:30 PM"
+            "name": "Mahalaya Celebration 2019",
+            "desc": "UMA presents celebration of Mahalaya 2019",
+            "place": "TBD",
+            "date": "28th September, 2019",
+            "time": "8:30 AM"
+        },
+		{
+            "name": "Durga Puja 2019",
+            "desc": "UMA presents Durga Puja 2019. A festival closest to Bengal's heart ",
+            "place": "Utsav Prangan",
+            "date": "5th & 6th October, 2019",
+            "time": "10.00 AM"
         },
         {
-            "name": "Event 2",
-            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, et dolore magna aliqua",
-            "place": "Tom's kitchen",
-            "date": "27-08-2019",
-            "time": "5:30 PM"
+            "name": "Annual Picnic 2019",
+            "desc": "Member picnic and get together to cheer with our family and friends",
+            "place": "TBD",
+            "date": "TBD",
+            "time": "TBD"
         },
         {
-            "name": "Event 3",
-            "desc": "Lorem ipsum dolor sit amet, incididunt ut labore et dolore magna aliqua",
-            "place": "Fortress of Solitude",
-            "date": "22-09-2019",
-            "time": "5:30 PM"
-        },
-        {
-            "name": "Event 4",
-            "desc": "Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-            "place": "Star City Terminal",
-            "date": "02-12-2019",
-            "time": "5:30 PM"
+            "name": "Saraswati Puja - 2020",
+            "desc": "UMA presents Saraswati Puja 2020.",
+            "place": "Utsav Prangan",
+            "date": "29th January, 2020",
+            "time": "10:00 AM"
         }
+        
     ]
 }
