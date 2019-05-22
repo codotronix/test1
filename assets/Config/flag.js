@@ -1,5 +1,5 @@
 window.flag = {
-    allEventsCardRoundedImage: true      // true / false
+    allEventsCardRoundedImage: false      // true / false
 };
 
 
