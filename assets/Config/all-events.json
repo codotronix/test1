@@ -4,8 +4,8 @@
           "name": "Mahalaya 2019",
           "desc": "UMA celebrates Mahalaya 2019",
           "place": "TBD",
-          "displayDate": "TBD",
-          "date": "2019-10-25",
+          "displayDate": "28th September, 2019",
+          "date": "2019-09-28",
           "time": "TBD",
           "imgUrl": "assets/img/event/mahalaya-2019.jpg"
         },
@@ -47,29 +47,29 @@
           },
           {
             "name": "Event 2",
-            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, et dolore magna aliqua",
-            "place": "Tom's kitchen",
-            "displayDate": "2018-01-03",
-            "date": "2018-01-03",
-            "time": "5:30 PM",
+            "desc": "NA",
+            "place": "NA",
+            "displayDate": "NA",
+            "date": "2019-02-22",
+            "time": "NA",
             "imgUrl": "assets/img/7.jpg"
           },
           {
             "name": "Event 3",
-            "desc": "Lorem ipsum dolor sit amet, incididunt ut labore et dolore magna aliqua",
-            "place": "Fortress of Solitude",
-            "displayDate": "2019-09-22",
-            "date": "2018-09-22",
-            "time": "5:30 PM",
+            "desc": "NA",
+            "place": "NA",
+            "displayDate": "NA",
+            "date": "2019-02-22",
+            "time": "NA",
             "imgUrl": "assets/img/6.jpg"
           },
           {
             "name": "Event 4",
-            "desc": "Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-            "place": "Star City Terminal",
-            "displayDate": "2017-02-01",
-            "date": "2017-02-01",
-            "time": "5:30 PM",
+            "desc": "NA",
+            "place": "NA",
+            "displayDate": "NA",
+            "date": "2019-02-22",
+            "time": "NA",
             "imgUrl": "assets/img/6.jpg"
           }
     
