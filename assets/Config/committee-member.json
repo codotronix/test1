@@ -2,6 +2,22 @@
 "members": 
     [
         {
+        "designation":"Board Member",
+        "name": "Partho Sinha",
+        "email" : "utsavmelbourneassociation@gmail.com",
+        "sex": "male",
+        "phone": "+61-402895604",
+        "picture":"board-member.jpg"
+        },
+		{
+        "designation":"Director",
+        "name": "Pradeep Dhiman",
+        "email" : "utsavmelbourneassociation@gmail.com",
+        "sex": "male",
+        "phone": "+61-402895604",
+        "picture":"director.jpg"
+        },
+		{
         "designation":"President",
         "name": "Pritam Dutta",
         "email" : "utsavmelbourneassociation@gmail.com",
@@ -18,14 +34,6 @@
         "picture":"vice_president.jpg"
         },
         {
-        "designation":"Director",
-        "name": "Pradeep Dhiman",
-        "email" : "utsavmelbourneassociation@gmail.com",
-        "sex": "male",
-        "phone": "+61-402895604",
-        "picture":"director.jpg"
-        },
-		{
         "designation":"Secretary",
         "name": "Sanjeeb Ghosh",
         "email" : "utsavmelbourneassociation@gmail.com",
@@ -56,14 +64,6 @@
         "sex": "male",
         "phone": "+61-402895604",
         "picture":"marketing-head.jpg"
-        },
-		{
-        "designation":"Board Member",
-        "name": "Partho Sinha",
-        "email" : "utsavmelbourneassociation@gmail.com",
-        "sex": "male",
-        "phone": "+61-402895604",
-        "picture":"board-member.jpg"
         },
 		{
         "designation":"Web Architect",
